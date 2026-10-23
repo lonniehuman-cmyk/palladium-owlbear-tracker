@@ -1,13 +1,13 @@
 {
   "name": "Palladium Melee Tracker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "manifest_version": 1,
   "description": "Shared Palladium melee actions, dodges, initiative and dice.",
   "author": "Private campaign extension",
   "action": {
     "title": "Palladium Melee Tracker",
-    "icon": "icon.svg",
-    "popover": "index.html",
+    "icon": "https://lonniehuman-cmyk.github.io/palladium-owlbear-tracker/icon.svg",
+    "popover": "https://lonniehuman-cmyk.github.io/palladium-owlbear-tracker/index.html",
     "width": 720,
     "height": 780
   }
