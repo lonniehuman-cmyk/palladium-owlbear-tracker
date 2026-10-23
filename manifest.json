@@ -6,8 +6,8 @@
   "author": "Private campaign extension",
   "action": {
     "title": "Palladium Melee Tracker",
-    "icon": "/icon.svg",
-    "popover": "/index.html",
+    "icon": "icon.svg",
+    "popover": "index.html"
     "width": 720,
     "height": 780
   }
