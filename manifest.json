@@ -1,0 +1,14 @@
+{
+  "name": "Palladium Melee Tracker",
+  "version": "0.1.0",
+  "manifest_version": 1,
+  "description": "Shared Palladium melee actions, dodges, initiative and dice.",
+  "author": "Private campaign extension",
+  "action": {
+    "title": "Palladium Melee Tracker",
+    "icon": "/icon.svg",
+    "popover": "/index.html",
+    "width": 720,
+    "height": 780
+  }
+}
